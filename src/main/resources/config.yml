@@ -1,0 +1,47 @@
+teleporter:
+  items:
+    1:
+      name: 'Teleporter 1'
+      lore:
+        - 'Lore Zeile 1'
+        - 'Lore Zeile 2'
+      permission: 'teleporter.one'
+      coordinates:
+        x: 10
+        y: 64
+        z: 10
+    2:
+      name: 'Teleporter 2'
+      lore:
+        - 'Lore Zeile 1'
+        - 'Lore Zeile 2'
+      permission: 'teleporter.two'
+      coordinates:
+        x: 20
+        y: 64
+        z: 20
+    3:
+      name: 'Teleporter 3'
+      lore:
+        - 'Lore Zeile 1'
+        - 'Lore Zeile 2'
+      permission: 'teleporter.three'
+      coordinates:
+        x: 30
+        y: 64
+        z: 30
+    4:
+      name: 'Teleporter 4'
+      lore:
+        - 'Lore Zeile 1'
+        - 'Lore Zeile 2'
+      permission: 'teleporter.four'
+      coordinates:
+        x: 40
+        y: 64
+        z: 40
+    quest:
+      name: 'Quests'
+      lore:
+        - 'Lore Zeile 1'
+        - 'Lore Zeile 2'

@@ -1,0 +1,8 @@
+name: Teleporter
+version: '1.1'
+main: at.nniklxs.teleporter.Main
+api-version: 1.20
+authors: [ nniklxs ]
+description: Plugin für KuchenGames
+commands:
+  teleporter:
